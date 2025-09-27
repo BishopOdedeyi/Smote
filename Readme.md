@@ -1,9 +1,9 @@
 # 📒 Smotes Open Source Note-Taking & File Management
 
-Smart Notes is a **lightweight, secure, and extensible note-taking platform** built in PHP with MySQL.  
+Smotes is a **lightweight, secure, and extensible note-taking platform** built in PHP with MySQL.  
 It goes beyond simple notes: you can **attach files (PDFs, images, docs)**, organize your thoughts, and manage your information seamlessly — all in one place.  
 
-Unlike bloated CMS solutions (like WordPress with plugins), **Smart Notes is lean and purpose-built**:  
+Unlike bloated CMS solutions (like WordPress with plugins), **Smotes is lean and purpose-built**:  
 - Minimalist dashboard, distraction-free.  
 - Fast and optimized for small to medium-scale usage.  
 - Extensible — developers can fork and integrate it into their own workflows.  
@@ -87,7 +87,7 @@ All contributions (UI improvements, security patches, new features) are welcome 
 
 ## 🔮 Future Prospects
 
-Smart Notes is just the beginning. Here’s what we envision:
+Smotes is just the beginning. Here’s what we envision:
 
 * 📱 **Mobile-Friendly UI** for easier use on phones & tablets.
 * 🌐 **Collaboration Mode** (shared notes between users).
@@ -96,7 +96,7 @@ Smart Notes is just the beginning. Here’s what we envision:
 * ☁️ **Cloud Deploy Option** so teams can host it online.
 * 🤖 **AI Integration (OCR/LLM)** to extract text from uploaded files automatically.
 
-This makes Smart Notes a future-ready platform for **personal productivity and team collaboration**.
+This makes Smotes a future-ready platform for **personal productivity and team collaboration**.
 
 ---
 
@@ -109,7 +109,7 @@ You are free to use, modify, and distribute it — commercially or personally �
 
 ## 💡 Final Words
 
-Smart Notes proves that:
+Smotes proves that:
 
 > *Simple tools can make a big difference.*
 
@@ -117,6 +117,7 @@ Try it, fork it, improve it.
 Whether you’re a developer building features, or a user hosting your own notes, **this project belongs to you**.
 
 👉 Start now: clone the repo, import the DB, and create your first note!
+
 
 
 
