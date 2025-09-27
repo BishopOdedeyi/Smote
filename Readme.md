@@ -1,4 +1,3 @@
-````markdown
 # 📒 Smotes — Open Source Note-Taking & File Management
 
 Smart Notes is a **lightweight, secure, and extensible note-taking platform** built in PHP with MySQL.  
@@ -8,8 +7,6 @@ Unlike bloated CMS solutions (like WordPress with plugins), **Smart Notes is lea
 - Minimalist dashboard, distraction-free.  
 - Fast and optimized for small to medium-scale usage.  
 - Extensible — developers can fork and integrate it into their own workflows.  
-
----
 
 ## 🚀 Features
 
@@ -21,8 +18,6 @@ Unlike bloated CMS solutions (like WordPress with plugins), **Smart Notes is lea
 - 🛡️ **User-Scoped Data** – each user only sees their own notes & files.  
 - ⚡ **Lightweight** – no heavy frameworks, just pure PHP & MySQL.  
 
----
-
 ## 🌍 Why This Project Matters
 
 This project was created to show that **great tools don’t have to be complex**.  
@@ -32,8 +27,6 @@ It’s **free and open source software (FOSS)** — meaning:
 - Communities can collaborate to make it better.  
 
 Whether you’re a student, researcher, or professional team — Smotes can adapt to you.  
-
----
 
 ## 🛠️ Installation (Local Setup with XAMPP)
 
@@ -124,4 +117,5 @@ Try it, fork it, improve it.
 Whether you’re a developer building features, or a user hosting your own notes, **this project belongs to you**.
 
 👉 Start now: clone the repo, import the DB, and create your first note!
+
 
